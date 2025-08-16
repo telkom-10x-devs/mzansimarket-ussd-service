@@ -1,0 +1,8 @@
+node_modules/
+
+# Ignore real env files
+.env
+.env.*
+
+# Allow example env file
+!.env.example
