@@ -2,6 +2,20 @@
 
 High-performance USSD shopping application optimized for **Africa's Talking** gateway.
 
+## 📸 Screenshots
+
+### Main Menu
+
+![USSD Main Menu](./screenshots/main-page.PNG)
+
+### Shopping Flow
+
+![Shopping Process](./screenshots/app-flow.PNG)
+
+### Order Confirmation
+
+![Order Complete](./screenshots/confirmation.PNG)
+
 ## 📄 Key Features
 
 - ✅ Full shopping cart management
@@ -91,4 +105,6 @@ curl -w "Response time: %{time_total}s\n" http://localhost:8000/test
 
 ---
 
-**Performance Guaranteed**: <500ms response time | Zero hanging requests | Automatic error recovery
+# MzansiMarket USSD Service
+
+High-performance USSD shopping application optimized for **Africa's Talking** gateway.
