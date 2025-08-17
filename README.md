@@ -96,13 +96,6 @@ Health check endpoint - returns system status and performance metrics
 curl -w "Response time: %{time_total}s\n" http://localhost:8000/test
 ```
 
-## 🚢 Production Notes
-
-- Replace mock data with real database
-- Use Redis for session storage in production
-- Add proper logging and monitoring
-- Configure HTTPS and reverse proxy
-
 ---
 
 # MzansiMarket USSD Service
