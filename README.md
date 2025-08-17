@@ -10,6 +10,10 @@ High-performance USSD shopping application optimized for **Africa's Talking** ga
 
 ### Shopping Flow
 
+![Wallet Update](./screenshots/wallet.PNG)
+
+### Shopping Flow
+
 ![Shopping Process](./screenshots/app-flow.PNG)
 
 ### Order Confirmation
